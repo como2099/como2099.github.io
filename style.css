@@ -7,7 +7,7 @@ body {
 	text-align: left;
 	font: 12px Arial, Helvetica, sans-serif;
 	color: #061C37;
-	background: #1d384c;
+	background: #000000;
 	<!background-image:url(background.png);>
 	<!background-repeat:repeat-x;>
 }
@@ -23,7 +23,7 @@ padding:0px;
 width:900px;
 height:237px;
 padding:7px 7px 7px 7px;
-background-color:#FFFFFF;
+background-color:#CACACA;
 margin-bottom:7px;
 margin-top:20px;
 }
@@ -74,7 +74,7 @@ margin:0px auto 0px auto;
 #main
 {
 	display:block;
-background-color:#FFFFFF;
+background-color:#CACACA;
 padding-top:7px;
 padding-bottom:7px;
 }
