@@ -214,6 +214,11 @@ text-align:right;
 text-align:right;
 }
 
+.leftcol 
+{
+text-align:left;
+}
+
 .maincol
 {
 display:block;
