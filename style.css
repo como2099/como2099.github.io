@@ -48,7 +48,7 @@ h1, h2, h3
 position:relative;
 left:12px;	
 top:10px;
-<!color:#CACACA;>
+color:#CACACA;
 font-size:40px;
 }
 
@@ -60,7 +60,7 @@ float:right;
 top:158px;
 margin-right:11px;
 font-size:20px;
-<!color:#CACACA;>
+color:#CACACA;
 }
 
 
@@ -74,7 +74,7 @@ margin:0px auto 0px auto;
 #main
 {
 	display:block;
-background-color:#CACACA;
+<!background-color:#CACACA;>
 padding-top:7px;
 padding-bottom:7px;
 }
