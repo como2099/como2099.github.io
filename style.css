@@ -6,7 +6,7 @@ body {
 	padding: 0;
 	text-align: left;
 	font: 12px Times New Roman, serif;
-	color: #061C37;
+	color: #FFFFFF;
 	background: #000000;
 	background-image:url(background.jpg);
 	<!background-repeat:repeat-x;>
@@ -166,7 +166,7 @@ padding-top:12px;
 .leftcol
 {
 display:block;
-background-color:#FF48C1;
+<!background-color:#FF48C1;>
 <!background-image:url(leftcol_top.png);>
 <!background-repeat:no-repeat;>
 width:210px;
@@ -211,7 +211,7 @@ text-align:center;
 .maincol
 {
 display:block;
-background-color:#FF48C1;
+<!background-color:#FF48C1;>
 <!background-image:url(maincol_top.png);>
 <!background-repeat:no-repeat;>
 width:437px;
@@ -220,7 +220,7 @@ width:437px;
 .rightcol
 {
 display:block;
-background-color:#FF48C1;
+<!background-color:#FF48C1;>
 <!background-image:url(rightcol_top.png);>
 <!background-repeat:no-repeat;>
 width:210px;
