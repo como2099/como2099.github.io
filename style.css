@@ -36,7 +36,6 @@ margin-top:20px;
 	background-repeat:no-repeat;	
 }
 
-
 h1, h2, h3
 {
 	padding:0px;
@@ -71,7 +70,7 @@ margin:0px auto 0px auto;
 
 #main
 {
-	display:block;
+display:block;
 <!background-color:#CACACA;>
 padding-top:7px;
 padding-bottom:7px;
@@ -226,12 +225,11 @@ background-color:#FF48C1;
 <!background-repeat:no-repeat;>
 width:210px;
 }
+
 #footer h3
 {
 font-size:4px;
 width:inherit;	
 text-align:center;
-margin:0 auto 0 auto;
-	
-	
+margin:0 auto 0 auto;	
 }
