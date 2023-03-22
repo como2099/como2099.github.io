@@ -48,7 +48,7 @@ h1, h2, h3
 position:relative;
 left:12px;	
 top:10px;
-color:#CACACA;
+<!color:#CACACA;>
 font-size:40px;
 }
 
@@ -60,7 +60,7 @@ float:right;
 top:158px;
 margin-right:11px;
 font-size:20px;
-color:#CACACA;
+<!color:#CACACA;>
 }
 
 
