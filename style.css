@@ -86,7 +86,7 @@ padding-bottom:7px;
 
 .rightcol h2
 {
-	text-align:right;
+	text-align:left;
 	margin-right:0px;
 	font-size:20px;
 	margin-bottom:6px;
@@ -200,7 +200,7 @@ text-align:right;
 
 .rightcol 
 {
-text-align:right;
+text-align:center;
 }
 
 .leftcol 
